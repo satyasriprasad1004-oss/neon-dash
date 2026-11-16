@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Cyber Palette -->
+    <color name="bg_dark">#0A0B14</color>
+    <color name="bg_dark_card">#131627</color>
+    <color name="bg_card_elevated">#1C2038</color>
+    <color name="bg_dialog">#15182D</color>
+
+    <!-- Neon Accents -->
+    <color name="neon_cyan">#00F0FF</color>
+    <color name="neon_magenta">#FF007F</color>
+    <color name="neon_purple">#A020F0</color>
+    <color name="neon_yellow">#FFE600</color>
+    <color name="neon_green">#39FF14</color>
+    <color name="neon_orange">#FF6600</color>
+    <color name="neon_red">#FF1744</color>
+    <color name="neon_blue">#0080FF</color>
+
+    <!-- Text & UI -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9DA5CD</color>
+    <color name="text_muted">#5F668A</color>
+    <color name="divider_color">#262B4A</color>
+    <color name="border_cyan">#3300F0FF</color>
+    <color name="border_purple">#33A020F0</color>
+
+    <!-- PowerUp Colors -->
+    <color name="powerup_magnet">#00F0FF</color>
+    <color name="powerup_shield">#39FF14</color>
+    <color name="powerup_speed">#FFE600</color>
+    <color name="powerup_slowmo">#0080FF</color>
+    <color name="powerup_doublejump">#FF007F</color>
+
+    <!-- Standard references -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

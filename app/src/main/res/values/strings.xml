@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEON DASH</string>
+    <string name="app_tagline">Endless Runner Adventure</string>
+
+    <!-- Game Modes -->
+    <string name="mode_classic">Classic Mode</string>
+    <string name="mode_classic_desc">Endless running with rising speed and intensity</string>
+    <string name="mode_time_challenge">Time Challenge</string>
+    <string name="mode_time_challenge_desc">Survive the cyber gauntlet before time runs out</string>
+    <string name="mode_coin_rush">Coin Rush</string>
+    <string name="mode_coin_rush_desc">Collect as many cyber coins as possible in 60s</string>
+
+    <!-- Characters -->
+    <string name="char_nova">Nova</string>
+    <string name="char_nova_title">Standard Cyber Runner</string>
+    <string name="char_shadow">Shadow</string>
+    <string name="char_shadow_title">Ninja Phantom Unit</string>
+    <string name="char_bolt">Bolt</string>
+    <string name="char_bolt_title">Hyper-Velocity Android</string>
+    <string name="char_titan">Titan</string>
+    <string name="char_titan_title">Armored Dreadnought</string>
+
+    <!-- Environments -->
+    <string name="env_neon_city">Neon City</string>
+    <string name="env_neon_city_desc">Luminescent metropolis with holographic skyscrapers</string>
+    <string name="env_desert_run">Desert Run</string>
+    <string name="env_desert_run_desc">Futuristic wasteland with radioactive cyber dunes</string>
+    <string name="env_jungle_escape">Jungle Escape</string>
+    <string name="env_jungle_escape_desc">Bioluminescent alien canopy with glowing flora</string>
+    <string name="env_cyber_world">Cyber World</string>
+    <string name="env_cyber_world_desc">Digital realm of raw data streams and laser platforms</string>
+
+    <!-- UI Buttons & Actions -->
+    <string name="btn_play">PLAY GAME</string>
+    <string name="btn_characters">Characters</string>
+    <string name="btn_environments">Environments</string>
+    <string name="btn_missions">Missions</string>
+    <string name="btn_shop">Cyber Shop</string>
+    <string name="btn_leaderboard">Hall of Fame</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_restart">Play Again</string>
+    <string name="btn_main_menu">Main Menu</string>
+    <string name="btn_select">Select</string>
+    <string name="btn_selected">Selected</string>
+    <string name="btn_unlock">Unlock</string>
+    <string name="btn_upgrade">Upgrade</string>
+    <string name="btn_claim">Claim</string>
+    <string name="btn_claimed">Claimed</string>
+</resources>
